@@ -87,11 +87,9 @@ Hemato-Vision1/
 - Add support for mobile uploads.
 - Enable batch image prediction.
 - Deploy online via Render or Hugging Face Spaces.
-- Add a feedback loop for incorrect predictions.
+- Add a feedback loop for incorrect prediction.
 
-## License
-All rights reserved by Allen015. Consider adding an open-source license for broader contribution and use.
-
-## Credits
-- Built using open-source libraries: Flask, TensorFlow, OpenCV
-- Special thanks to mentors and peers who supported development.
+## contact author : Murari Rama Naga Durga Sri Saikumar
+-EMAIL : murari.saikumar01@gmail.com
+-Student EMail : saikumar.murari04@gmail.com
+-GITHUB : https://github.com/Sai172004 
