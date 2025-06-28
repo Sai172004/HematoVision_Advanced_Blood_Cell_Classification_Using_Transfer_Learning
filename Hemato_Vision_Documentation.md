@@ -4,11 +4,7 @@
 
 - **Project Title:** Hemato-Vision  
 - **Team Members:**  
-  - G. Allen Noah Bhagyam
-  - L. Mounika
-  - T. Malik Baba
-  - N. Mahesh
-  - P. Paramesh
+  - M.Rama Naga Durga Sri Sai Kumar
 
 ## 2. Project Overview
 
